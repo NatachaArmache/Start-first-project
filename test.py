@@ -1,1 +1,1 @@
-input("Quel est ton nom")
+input("Quel est ton nomm")
